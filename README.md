@@ -4,7 +4,7 @@ A quick-start Vue project that shows how to add and customize the symbol palette
 
 Watch the video: Coming soon...
 
-Refer to the following documentation to learn about the Vue Diagram component: https://ej2.syncfusion.com/vue/documentation/diagram/symbol-palette
+Refer to the following documentation to learn about the Vue Diagram component: https://ej2.syncfusion.com/vue/documentation/diagram/symbol-palette <br/>
 Check out this online example of the Vue Diagram component: https://ej2.syncfusion.com/vue/demos/#/material3/diagram/symbol-palette.html
 
 
