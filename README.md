@@ -1,6 +1,6 @@
 # How to Add the Symbol Palette to a Vue Diagram Component
 
-A quick-start Vue project that shows how to add and customize the symbol palette in the Syncfusion [Vue Diagram]( https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=vue-diagram-symbolpalette-sample) component. This project also includes code snippets for restricting the symbol palette's panel, customizing its symbol size, and customizing the symbol preview size.
+A quick-start Vue project that shows how to add and customize the symbol palette in the Syncfusion&reg; [Vue Diagram]( https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=vue-diagram-symbolpalette-sample) component. This project also includes code snippets for restricting the symbol palette's panel, customizing its symbol size, and customizing the symbol preview size.
 
 Watch the video: https://www.syncfusion.com/tutorial-videos/vue/diagram?title=how-to-add-the-symbol-palette-to-a-vue-diagram-component 
 
